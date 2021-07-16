@@ -1,4 +1,5 @@
 # sprawdzenie które słowo jest palindromem
+# palindrom - słowo pisane w przud i od końca brzmi tak samo
 
 def palindrome(lista):
     wynik = list()
